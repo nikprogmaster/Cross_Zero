@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="text_again">Заново</string>
+    <string name="exit">Выход</string>
+</resources>
