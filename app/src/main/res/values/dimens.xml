@@ -2,4 +2,8 @@
 <resources>
     <dimen name="layout_padding">8dp</dimen>
     <dimen name="element_padding">8dp</dimen>
+    <dimen name="padding_start">60dp</dimen>
+    <dimen name="padding_end">60dp</dimen>
+    <dimen name="padding_top">24dp</dimen>
+    <dimen name="padding_bottom">24dp</dimen>
 </resources>
